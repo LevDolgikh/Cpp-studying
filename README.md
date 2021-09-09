@@ -7,5 +7,6 @@ New round of C++ studying (start date: 23/08/2021)
 04. Project_4     - Arrays of numbers, sizeof function, random numbers;
 05. Project_5     - Functions, overloading, function prototypes, templates;
 06. Project_6     - Recursion, pointers, pointer arithmetic;
+07. Project_7     - Usege of pointers and links;
 
 I dont want to learn C++ at all but i have to. That's why i will not do complex programs and i will only learn basics to unrestand how to read C++ code in general.
